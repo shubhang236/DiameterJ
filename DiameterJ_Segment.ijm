@@ -158,31 +158,32 @@ if(Batch_analysis == "Yes") {
 		var path3 = myDir+name[3];
 		var path4 = myDir+name[4];
 		var path5 = myDir+name[5];
-		var path6 = myDir+name[6];
-		var path7 = myDir+name[7];
-		var path8 = myDir+name[8];
-		var path9 = myDir+name[9];
-		var path10 = myDir2+name[10];
+		path6 = myDir+name[6];
+		path7 = myDir+name[7];
+		path8 = myDir+name[8];
+		path9 = myDir+name[9];
+		path10 = myDir2+name[10];
 		
-		var path11 = myDir+name[11];
-		var path12 = myDir+name[12];
-		var path13 = myDir+name[13];
-		var path14 = myDir+name[14];
-		var path15 = myDir+name[15];
-		var path16 = myDir+name[16];
-		var path17 = myDir+name[17];
-		var path18 = myDir+name[18];
-		var path19 = myDir+name[19];
-		var path20 = myDir+name[20];
-		var path21 = myDir2+name[21];
+		path11 = myDir+name[11];
+		path12 = myDir+name[12];
+		path13 = myDir+name[13];
 		
-		var path23 = myDir+name[23];
-		var path24 = myDir+name[24];
-		var path25 = myDir+name[25];
-		var path26 = myDir+name[26];
-		var path27 = myDir+name[27];
-		var path28 = myDir+name[28];
-		var path29 = myDir+name[29];
+path14 = myDir+name[14];
+		path15 = myDir+name[15];
+		path16 = myDir+name[16];
+		path17 = myDir+name[17];
+		path18 = myDir+name[18];
+		path19 = myDir+name[19];
+		path20 = myDir+name[20];
+		path21 = myDir2+name[21];
+		
+		path23 = myDir+name[23];
+		path24 = myDir+name[24];
+		path25 = myDir+name[25];
+		path26 = myDir+name[26];
+		path27 = myDir+name[27];
+		path28 = myDir+name[28];
+		path29 = myDir+name[29];
 		var path30 = myDir+name[30];
 		
 		var path31 = myDir2+name[31];
